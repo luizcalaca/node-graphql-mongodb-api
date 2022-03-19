@@ -2,6 +2,16 @@
 
 Um aplicativo em GraphQL para gerenciar posts
 
+#### How to run
+
+```
+git clone https://github.com/luizcalaca/node-graphql-mongodb-api.git
+npm install
+npm start
+```
+
+Access on: http://localhost/4000 and will be opened the GraphQL playground
+
 #### Example on Playground
 
 ```
