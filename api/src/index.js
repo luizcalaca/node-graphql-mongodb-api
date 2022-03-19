@@ -14,7 +14,7 @@ const db = {
   name: process.env.DB_NAME,
 };
 
-const dbUri = `mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000`;
+const dbUri = `mongodb://127.0.0.1:27017/blog`;
 const dbOptions = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
