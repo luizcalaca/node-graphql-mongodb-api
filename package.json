@@ -5,8 +5,8 @@
     "graphql": "^16.3.0",
     "mongoose": "^5.13.8"
   },
-  "name": "frutas",
-  "description": "Um aplicativo full-stack em GraphQL para gerenciar frutas.",
+  "name": "blog",
+  "description": "API GraphQL for Blog posts",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
