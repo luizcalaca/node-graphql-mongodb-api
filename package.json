@@ -3,13 +3,12 @@
     "apollo-server": "^3.6.4",
     "dotenv": "^16.0.0",
     "graphql": "^16.3.0",
-    "mongoose": "^6.2.7"
+    "mongoose": "^5.13.8"
   },
   "name": "frutas",
   "description": "Um aplicativo full-stack em GraphQL para gerenciar frutas.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./api/src/index.js"

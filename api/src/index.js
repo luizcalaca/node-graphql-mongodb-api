@@ -18,7 +18,7 @@ const dbUri = `mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionT
 const dbOptions = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-  //useFindAndModify: false,
+  useFindAndModify: false,
 };
 
 mongoose
